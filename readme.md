@@ -98,7 +98,7 @@ The project is structured into two main directories:
 ## Contributors
 
 - **[Shauryaraje Yadav](https://github.com/Shauryaraje7)** - Full Stack Developer
-- **[Omkar Phadatare](https://github.com/nafeesa-shehzadi)** - Full Stack Developer
+- **[Omkar Phadatare](https://github.com/omkar703)** - Full Stack Developer
 
 ## Collaboration
 
